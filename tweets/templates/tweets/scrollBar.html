@@ -1,0 +1,15 @@
+
+{% load static %}
+
+
+
+
+<div class="tcontainer"><div class="ticker-wrap"><div class="ticker-move">
+    <div class="ticker-item">Trending Topics: </div>
+    {% for i in trends %}
+      <div class="ticker-item"> {{i}}</div>
+    {% endfor %}
+
+    
+    
+  </div></div></div>
