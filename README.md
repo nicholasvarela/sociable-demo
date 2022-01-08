@@ -17,7 +17,7 @@ Currently a limited demo is available
 Use the search function to enter a Twitter Handle. 
 Can't think of one? Try @nytimes  @Apple  @SportsCenter
 
-***Currently the Popular Accounts feature is not working***
+
 https://nicholasvarela-tweetmeter.herokuapp.com/
   
 
