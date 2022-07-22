@@ -11,15 +11,5 @@ The goal of this project was to learn how to use Django and integrate the Twitte
 Django, HTML, CSS, Python, Twitter API, Heroku
 
   
-## Demo
-Currently a limited demo is available  
-
-Use the search function to enter a Twitter Handle. 
-Can't think of one? Try @nytimes  @Apple  @SportsCenter
-
-
-https://nicholasvarela-tweetmeter.herokuapp.com/
-  
-
 
   
